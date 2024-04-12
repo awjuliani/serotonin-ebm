@@ -1,0 +1,8 @@
+# Required python packages
+numpy
+matplotlib
+ray
+scipy
+Pillow
+pytest
+imageio
